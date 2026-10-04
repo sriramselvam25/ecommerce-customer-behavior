@@ -1,0 +1,16 @@
+{
+  "name": "Customer & Business Performance Analytics",
+  "textClasses": {
+    "title": {"fontFace": "Segoe UI Semibold"},
+    "header": {"fontFace": "Segoe UI Semibold"},
+    "label": {"fontFace": "Segoe UI"}
+  },
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{"fontFamily": "Segoe UI Semibold", "fontSize": 12}],
+        "labels": [{"fontFamily": "Segoe UI", "fontSize": 10}]
+      }
+    }
+  }
+}
