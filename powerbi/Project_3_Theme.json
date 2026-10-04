@@ -1,16 +1,1 @@
-{
-  "name": "Customer & Business Performance Analytics",
-  "textClasses": {
-    "title": {"fontFace": "Segoe UI Semibold"},
-    "header": {"fontFace": "Segoe UI Semibold"},
-    "label": {"fontFace": "Segoe UI"}
-  },
-  "visualStyles": {
-    "*": {
-      "*": {
-        "title": [{"fontFamily": "Segoe UI Semibold", "fontSize": 12}],
-        "labels": [{"fontFamily": "Segoe UI", "fontSize": 10}]
-      }
-    }
-  }
-}
+{"name":"Customer Growth","dataColors":["#14B8A6","#8B5CF6","#FB7185","#F59E0B","#38BDF8","#22C55E"],"background":"#F8FAFC","foreground":"#0F172A","tableAccent":"#14B8A6","textClasses":{"title":{"fontFace":"Segoe UI Semibold","color":"#0F172A"},"header":{"fontFace":"Segoe UI Semibold","color":"#334155"},"label":{"fontFace":"Segoe UI","color":"#475569"}}}
